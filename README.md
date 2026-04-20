@@ -1,6 +1,6 @@
 # 🌍 Wanderly — Travel Itinerary Portal
 
-A dynamic single-page web application that helps travellers discover and explore curated trip itineraries from around the world.
+A dynamic single-page web application that helps travellers discover and explore curated trip itineraries from around the world. Inpired by wavoratravels.com
 
 ---
 
